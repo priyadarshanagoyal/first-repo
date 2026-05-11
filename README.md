@@ -1,4 +1,5 @@
 # first-repo
 This is my first Git repository.
 <br>
-Author:Priyadarshana
+Author:Priyadarshana Goyal
+
